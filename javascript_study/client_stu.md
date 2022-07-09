@@ -1,4 +1,4 @@
-# client.html 개념정리
+# client.html 참고정리
 
 ## client_style.css
 client_( ).css 파일이 세 개이므로 모두 모아놓은 하나의 파일
